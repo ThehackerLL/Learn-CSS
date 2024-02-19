@@ -1,0 +1,26 @@
+h1{
+    background-color: black;
+    color: white;
+}
+h2{
+background-color: red;
+}
+/* selectores con una clase */
+h2.seccion3{
+    color: yellow;
+    
+}
+p.seccion1{
+    background-color: green;
+}
+/* selectores con una clase */
+#parrafoSeleccionado{
+    color: violet;
+}
+.estilo-fuente-distinto{
+    font-family: Impact;
+}
+.seccion1.estilo-fuente-distinto{
+    text-align: end;
+}
+/* selectores con una clase */
